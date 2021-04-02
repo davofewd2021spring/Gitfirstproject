@@ -1,0 +1,10 @@
+.GP {background: chartreuse;}
+
+.group{ border: crimson;
+        border-width: 1px;
+        border-style: dotted;
+        }
+.group1{border: crimson;
+        border-style: solid;
+        border-width: 1px;
+        }        
